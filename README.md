@@ -1,3 +1,3 @@
 # Homework
-### all the practices are here
+### All the practices are here
 ## Hello World!
