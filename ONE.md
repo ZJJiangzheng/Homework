@@ -30,15 +30,19 @@ GitHub如前所述，作为一个分布式的版本控制系统，在Git中并�
   
   同时GitHub的图标也很有意思（如左下图），该图标也为GitHub公司的吉祥物 *Octocat：章鱼猫* ，寓意着 Git has an octopus merge. 表示Git分布式的特性。
 <p align="right"><img src="http://ww2.sinaimg.cn/large/805ed88bgw1eer19wm3d7j20640640sp.jpg"></p>
-## 三、课程Home、PyRankine和SEUIF97仓库简介
+## 三、课程Home、PyRankine和SEUIF97仓库简介  
+
 1. **Home** 
 截图如下：
 <p align="center"><img src="https://raw.githubusercontent.com/ZJJiangzheng/home/master/IZBOHTJI%40WYM3%5D~LY3%24IURU.png"></p>
+home仓库存放着这门学科必备的学习资源，其中默认打开的README.md文件介绍了这门课程的教学目标、学习方法等内容，Guide子仓库里详细介绍了相关软件的安装方法。对我个人而言，home这一仓库相当于是一位领路人，为我打开了通往"free and open"这个世界的大门。
 
 2. **PyRankine**
 截图如下：
 <p align="center"><img src="https://raw.githubusercontent.com/ZJJiangzheng/home/master/5KJZS_D4%24M%5B)S1E%5D_C09RWB.png"></p>
+该仓库主要介绍了以Python作为编程语言来解决工程中朗肯循环涉及的实际问题，依据仓库中一步一步的教学，可以掌握以编程的方式来研究朗肯循环。当然该仓库也提供相关参考资料链接，便于理解以及相关拓宽。  
 
 3. **SEUIF97**
 截图如下：
 <p align="center"><img src="https://raw.githubusercontent.com/ZJJiangzheng/home/master/%7D%40T)S%25K60328%7D1CJLMV97(1.jpg"></p>
+SEUIF97仓库则为开发者们提供了一个工具库，该工具库可快速分享，并可用于在广延模拟过程中计算水蒸气性质参数，比如计算流体力学，热循环计算，非稳态过程模拟计算，和实时过程最优化计算等，因为直接的IAPWS-IF97安装启用可能由于计算时间的消耗而并不适用。通过这个高速工具库，IAPWS-IF97的运算结果可以以三倍的计算速度来正确地呈现出来。
