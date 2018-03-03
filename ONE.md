@@ -5,4 +5,4 @@
 - 账户名：ZJJiangzheng
 - 使用的电子邮箱：1750918655@qq.com
 - 账户主页面截图：
-![] (https://raw.githubusercontent.com)
+![主页](https://raw.githubusercontent.com/ZJJiangzheng/home/master/G%7DA6(5FFKXOQI~WZUN35S%5DS.png)
